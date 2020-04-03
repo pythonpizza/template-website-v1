@@ -61,7 +61,7 @@ export default () => (
       </ul>
       <h2>Unacceptable Behavior</h2>
       <p>Unacceptable behaviors include, but is not limited to:</p>
-      <ul>
+      <ul className="unacceptable">
         <li>
           Abusive, discriminatory, derogatory or demeaning speech or actions
         </li>
